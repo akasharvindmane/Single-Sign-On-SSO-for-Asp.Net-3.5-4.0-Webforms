@@ -1,0 +1,17 @@
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\WebApplicationSSO.dll.config
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\WebApplicationSSO.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\WebApplicationSSO.pdb
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\EntityFramework.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\EntityFramework.SqlServer.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\microsoft.identitymodel.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\Microsoft.Web.Infrastructure.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\EntityFramework.xml
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\EntityFramework.SqlServer.xml
+D:\SSO\WebApplicationSSO\WebApplicationSSO\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\SSO\WebApplicationSSO\WebApplicationSSO\obj\Debug\WebApplicationSSO.csproj.CoreCompileInputs.cache
+D:\SSO\WebApplicationSSO\WebApplicationSSO\obj\Debug\WebApplicationSSO.csproj.CopyComplete
+D:\SSO\WebApplicationSSO\WebApplicationSSO\obj\Debug\WebApplicationSSO.dll
+D:\SSO\WebApplicationSSO\WebApplicationSSO\obj\Debug\WebApplicationSSO.pdb
+D:\SSO\WebApplicationSSO\WebApplicationSSO\obj\Debug\WebApplicationSSO.csprojAssemblyReference.cache
